@@ -1,4 +1,5 @@
 # Machine Learning Projects
+*Created: 2021-03-13*
 
 A **machine learning projects** repository, currently focused on **logistic regression** (in the `Course1` folder).
 
